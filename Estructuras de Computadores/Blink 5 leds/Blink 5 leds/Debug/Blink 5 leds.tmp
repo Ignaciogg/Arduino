@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\Debug\Blink 5 leds.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Blink 5 leds.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Blink 5 leds.map</FILE>
+  <FILE>Blink 5 leds.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</FILE><LINE>13</LINE></start>
+  <for3_1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</FILE><LINE>21</LINE></for3_1>
+  <for2_1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</FILE><LINE>23</LINE></for2_1>
+  <for1_1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</FILE><LINE>25</LINE></for1_1>
+  <L1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink 5 leds\Blink 5 leds\main.asm</FILE><LINE>47</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

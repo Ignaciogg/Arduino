@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\Debug\PRACTICA 1 AUDI.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PRACTICA 1 AUDI.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PRACTICA 1 AUDI.map</FILE>
+  <FILE>PRACTICA 1 AUDI.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>11</LINE></main>
+  <repetir><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>16</LINE></repetir>
+  <delay200><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>36</LINE></delay200>
+  <delay1000><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>77</LINE></delay1000>
+  <delay500><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>56</LINE></delay500>
+  <L1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>44</LINE></L1>
+  <L2><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>64</LINE></L2>
+  <L3><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 1 AUDI\PRACTICA 1 AUDI\main.asm</FILE><LINE>85</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>

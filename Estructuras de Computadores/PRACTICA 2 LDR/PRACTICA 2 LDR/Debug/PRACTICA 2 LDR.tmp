@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\Debug\PRACTICA 2 LDR.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PRACTICA 2 LDR.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PRACTICA 2 LDR.map</FILE>
+  <FILE>PRACTICA 2 LDR.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config_ADC><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>82</LINE></config_ADC>
+  <loopGeneral><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>14</LINE></loopGeneral>
+  <esperaADC><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>19</LINE></esperaADC>
+  <encender2><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>67</LINE></encender2>
+  <encender1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>72</LINE></encender1>
+  <seguir><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\PRACTICA 2 LDR\PRACTICA 2 LDR\main.asm</FILE><LINE>76</LINE></seguir>
+ </LABELS>
+</ASSEMBLER_INFO>

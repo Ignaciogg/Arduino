@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Microchip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\Debug\Blink con delay DEFINITIVO.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Blink con delay DEFINITIVO.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Blink con delay DEFINITIVO.map</FILE>
+  <FILE>Blink con delay DEFINITIVO.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <repetir_siempre><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>8</LINE></repetir_siempre>
+  <for3><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>15</LINE></for3>
+  <for2><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>17</LINE></for2>
+  <for1><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>19</LINE></for1>
+  <for6><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>31</LINE></for6>
+  <for5><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>33</LINE></for5>
+  <for4><FILE>D:\Uni\UEM\PRIMERO\2º CUATRI\Estructura de Computadores\Blink con delay DEFINITIVO\Blink con delay DEFINITIVO\main.asm</FILE><LINE>35</LINE></for4>
+ </LABELS>
+</ASSEMBLER_INFO>
